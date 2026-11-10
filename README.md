@@ -16,7 +16,7 @@ I focus on cleaning complex datasets, writing efficient SQL queries, and buildin
 ### 📂 Featured Projects & Portfolio
 Check out my latest data analysis projects:
 
-- 📊 **[E-Commerce Sales Performance Analysis](#)** — SQL data extraction & Excel dashboard for tracking sales trends and product performance.
+- 📊 **[E-Commerce Sales Performance Analysis](https://github.com/trimurdananto/ecommerce-sales-analysis)** — SQL data extraction & Excel dashboard for tracking sales trends and product performance.
 - 📉 **[Customer Churn & Retention Insights](#)** — Analyzing customer behavior patterns using SQL queries and data visualization.
 - 📋 **[Inventory & Operations Tracker](#)** — Automated Excel solution with Power Query and dynamic Pivot Tables.
 
